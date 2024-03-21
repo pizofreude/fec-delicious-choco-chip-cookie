@@ -4,7 +4,7 @@ This repository contains the code for a delicious chocolate chip cookie created 
 
 **Live Demo:**
 
-See the cookie in all its glory here: [Link to Codepen HTML file] (https://codepen.io/pizofreude/pen/MWRpZYJ).
+See the cookie in all its glory here: [Link to Codepen HTML file](https://codepen.io/pizofreude/pen/MWRpZYJ).
 
 **Technical Details:**
 
